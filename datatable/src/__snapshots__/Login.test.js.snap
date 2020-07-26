@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home is rendered 1`] = `ReactWrapper {}`;
+
+exports[`Home page should render  1`] = `ReactWrapper {}`;
+
+exports[`Login page should render 1`] = `ReactWrapper {}`;
+
+exports[`Login should render 1`] = `ReactWrapper {}`;

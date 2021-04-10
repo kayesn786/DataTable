@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import Display from "./Display-table";
-import { MDBDataTable, MDBInput } from "mdbreact";
 import "./App.css";
 
 const Home = () => {
@@ -10,7 +9,6 @@ const Home = () => {
   const [file1, setFile] = useState({
     fileD: null,
   });
-
 
   return (
     <React.Fragment>
@@ -26,9 +24,7 @@ const Home = () => {
       </nav>
 
       <div className="table-div">
-
         <Display />
-
       </div>
     </React.Fragment>
   );
